@@ -118,3 +118,7 @@ dist
 .pnp.*
 
 
+
+# Python
+.venv/
+__pycache__/
